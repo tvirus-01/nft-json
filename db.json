@@ -13,6 +13,34 @@
       "external_url": "https://github.com/tvirus-01",
       "image": "https://freesvg.org/img/mono-translate.png",
       "name": "Tvirus01 NFT 2"
+    },
+    {
+      "id": 2,
+      "description": "Tvirus03 NFT",
+      "external_url": "https://github.com/tvirus-01",
+      "image": "https://freesvg.org/img/1630478541pink-paint-splatter-halftone.png",
+      "name": "Tvirus01 NFT 3"
+    },
+    {
+      "id": 3,
+      "description": "Tvirus04 NFT",
+      "external_url": "https://github.com/tvirus-01",
+      "image": "https://freesvg.org/img/MARTE.png",
+      "name": "Tvirus01 NFT 4"
+    },
+    {
+      "id": 4,
+      "description": "Tvirus05 NFT",
+      "external_url": "https://github.com/tvirus-01",
+      "image": "https://freesvg.org/img/1528414493.png",
+      "name": "Tvirus01 NFT 5"
+    },
+    {
+      "id": 5,
+      "description": "Tvirus06 NFT",
+      "external_url": "https://github.com/tvirus-01",
+      "image": "https://freesvg.org/img/1528405729.png",
+      "name": "Tvirus01 NFT 6"
     }
   ]
 }
